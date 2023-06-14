@@ -1,71 +1,18 @@
 {
   "version": "2.1.0",
+  "$schema": "https://raw.githubusercontent.com/oasis-tcs/sarif-spec/master/Schemata/sarif-schema-2.1.0.json",
   "runs": [
     {
       "tool": {
         "driver": {
-          "name": "Meterian - 1.2.25.6"
+          "name": "Meterian",
+          "informationUri": "https://docs.meterian.io/",
+          "semanticVersion": "1.2.25.6",
+          "fullName": "Meterian BOSS scanner"
         }
       },
       "artifacts": [],
       "results": [
-        {
-          "message": {
-            "text": "Library \u0027debug\u0027 has not been updated since 13 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
-          },
-          "level": "none",
-          "rule": {
-            "id": "CWE-1104"
-          },
-          "attachments": [
-            {
-              "artifactLocation": {
-                "uri": "/package.json",
-                "description": {
-                  "text": "CWE-1104 affects package debug-2.6.9"
-                }
-              }
-            }
-          ]
-        },
-        {
-          "message": {
-            "text": "A vulnerability classified as problematic has been found in debug-js debug up to 3.0.x. This affects the function useColors of the file src/node.js. The manipulation of the argument str leads to inefficient regular expression complexity. Upgrading to version 3.1.0 is able to address this issue. The name of the patch is c38a0166c266a679c8de012d4eaccec3f944e685. It is recommended to upgrade the affected component. The identifier VDB-217665 was assigned to this vulnerability."
-          },
-          "level": "warning",
-          "rule": {
-            "id": "CVE-2017-20165"
-          },
-          "attachments": [
-            {
-              "artifactLocation": {
-                "uri": "/package.json",
-                "description": {
-                  "text": "CVE-2017-20165 affects package debug-2.6.9"
-                }
-              }
-            }
-          ]
-        },
-        {
-          "message": {
-            "text": "Library \u0027deep-is\u0027 has not been updated since 20 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
-          },
-          "level": "none",
-          "rule": {
-            "id": "CWE-1104"
-          },
-          "attachments": [
-            {
-              "artifactLocation": {
-                "uri": "/package.json",
-                "description": {
-                  "text": "CWE-1104 affects package deep-is-0.1.4"
-                }
-              }
-            }
-          ]
-        },
         {
           "message": {
             "text": "This affects the package pac-resolver before 5.0.0. This can occur when used with untrusted input, due to unsafe PAC file handling. **NOTE:** The fix for this vulnerability is applied in the node-degenerator library, a dependency written by the same maintainer."
@@ -77,7 +24,7 @@
           "attachments": [
             {
               "artifactLocation": {
-                "uri": "/package.json",
+                "uri": "package.json",
                 "description": {
                   "text": "CVE-2021-23406 affects package degenerator-2.2.0"
                 }
@@ -87,158 +34,6 @@
         },
         {
           "message": {
-            "text": "Library \u0027escodegen\u0027 has not been updated since 30 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
-          },
-          "level": "none",
-          "rule": {
-            "id": "CWE-1104"
-          },
-          "attachments": [
-            {
-              "artifactLocation": {
-                "uri": "/package.json",
-                "description": {
-                  "text": "CWE-1104 affects package escodegen-1.14.3"
-                }
-              }
-            }
-          ]
-        },
-        {
-          "message": {
-            "text": "Library \u0027esprima\u0027 has not been updated since 21 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
-          },
-          "level": "none",
-          "rule": {
-            "id": "CWE-1104"
-          },
-          "attachments": [
-            {
-              "artifactLocation": {
-                "uri": "/package.json",
-                "description": {
-                  "text": "CWE-1104 affects package esprima-4.0.1"
-                }
-              }
-            }
-          ]
-        },
-        {
-          "message": {
-            "text": "Library \u0027estraverse\u0027 has not been updated since 19 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
-          },
-          "level": "none",
-          "rule": {
-            "id": "CWE-1104"
-          },
-          "attachments": [
-            {
-              "artifactLocation": {
-                "uri": "/package.json",
-                "description": {
-                  "text": "CWE-1104 affects package estraverse-4.3.0"
-                }
-              }
-            }
-          ]
-        },
-        {
-          "message": {
-            "text": "Library \u0027esutils\u0027 has not been updated since 33 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
-          },
-          "level": "none",
-          "rule": {
-            "id": "CWE-1104"
-          },
-          "attachments": [
-            {
-              "artifactLocation": {
-                "uri": "/package.json",
-                "description": {
-                  "text": "CWE-1104 affects package esutils-2.0.3"
-                }
-              }
-            }
-          ]
-        },
-        {
-          "message": {
-            "text": "Library \u0027fast-levenshtein\u0027 has not been updated since 33 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
-          },
-          "level": "none",
-          "rule": {
-            "id": "CWE-1104"
-          },
-          "attachments": [
-            {
-              "artifactLocation": {
-                "uri": "/package.json",
-                "description": {
-                  "text": "CWE-1104 affects package fast-levenshtein-2.0.6"
-                }
-              }
-            }
-          ]
-        },
-        {
-          "message": {
-            "text": "Library \u0027ip\u0027 has not been updated since 59 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
-          },
-          "level": "none",
-          "rule": {
-            "id": "CWE-1104"
-          },
-          "attachments": [
-            {
-              "artifactLocation": {
-                "uri": "/package.json",
-                "description": {
-                  "text": "CWE-1104 affects package ip-1.1.8"
-                }
-              }
-            }
-          ]
-        },
-        {
-          "message": {
-            "text": "Library \u0027levn\u0027 has not been updated since 12 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
-          },
-          "level": "none",
-          "rule": {
-            "id": "CWE-1104"
-          },
-          "attachments": [
-            {
-              "artifactLocation": {
-                "uri": "/package.json",
-                "description": {
-                  "text": "CWE-1104 affects package levn-0.3.0"
-                }
-              }
-            }
-          ]
-        },
-        {
-          "message": {
-            "text": "Library \u0027netmask\u0027 has not been updated since 18 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
-          },
-          "level": "none",
-          "rule": {
-            "id": "CWE-1104"
-          },
-          "attachments": [
-            {
-              "artifactLocation": {
-                "uri": "/package.json",
-                "description": {
-                  "text": "CWE-1104 affects package netmask-2.0.2"
-                }
-              }
-            }
-          ]
-        },
-        {
-          "message": {
             "text": "This affects the package pac-resolver before 5.0.0. This can occur when used with untrusted input, due to unsafe PAC file handling. **NOTE:** The fix for this vulnerability is applied in the node-degenerator library, a dependency written by the same maintainer."
           },
           "level": "warning",
@@ -248,66 +43,9 @@
           "attachments": [
             {
               "artifactLocation": {
-                "uri": "/package.json",
+                "uri": "package.json",
                 "description": {
                   "text": "CVE-2021-23406 affects package pac-resolver-4.2.0"
-                }
-              }
-            }
-          ]
-        },
-        {
-          "message": {
-            "text": "Library \u0027prelude-ls\u0027 has not been updated since 15 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
-          },
-          "level": "none",
-          "rule": {
-            "id": "CWE-1104"
-          },
-          "attachments": [
-            {
-              "artifactLocation": {
-                "uri": "/package.json",
-                "description": {
-                  "text": "CWE-1104 affects package prelude-ls-1.1.2"
-                }
-              }
-            }
-          ]
-        },
-        {
-          "message": {
-            "text": "Library \u0027source-map\u0027 has not been updated since 14 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
-          },
-          "level": "none",
-          "rule": {
-            "id": "CWE-1104"
-          },
-          "attachments": [
-            {
-              "artifactLocation": {
-                "uri": "/package.json",
-                "description": {
-                  "text": "CWE-1104 affects package source-map-0.6.1"
-                }
-              }
-            }
-          ]
-        },
-        {
-          "message": {
-            "text": "Library \u0027word-wrap\u0027 has not been updated since 60 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
-          },
-          "level": "none",
-          "rule": {
-            "id": "CWE-1104"
-          },
-          "attachments": [
-            {
-              "artifactLocation": {
-                "uri": "/package.json",
-                "description": {
-                  "text": "CWE-1104 affects package word-wrap-1.2.3"
                 }
               }
             }
