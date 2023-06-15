@@ -21,12 +21,14 @@
           "rule": {
             "id": "CVE-2021-23406"
           },
-          "attachments": [
+          "locations": [
             {
-              "artifactLocation": {
-                "uri": "package.json",
-                "description": {
-                  "text": "CVE-2021-23406 affects package degenerator-2.2.0"
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package.json",
+                  "description": {
+                    "text": "CVE-2021-23406 affects package degenerator-2.2.0"
+                  }
                 }
               }
             }
@@ -40,12 +42,14 @@
           "rule": {
             "id": "CVE-2021-23406"
           },
-          "attachments": [
+          "locations": [
             {
-              "artifactLocation": {
-                "uri": "package.json",
-                "description": {
-                  "text": "CVE-2021-23406 affects package pac-resolver-4.2.0"
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package.json",
+                  "description": {
+                    "text": "CVE-2021-23406 affects package pac-resolver-4.2.0"
+                  }
                 }
               }
             }
