@@ -21,7 +21,7 @@
           "rule": {
             "id": "CVE-2021-23406",
             "properties": {
-              "urls": [
+              "tags": [
                 "CVE-2021-23406",
                 "CVE-2021-23406",
                 "https://github.com/TooTallNate/node-degenerator/commit/9d25bb67d957bc2e5425fea7bf7a58b3fc64ff9e",
