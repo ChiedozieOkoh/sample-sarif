@@ -107,12 +107,7 @@
                 "https://qa.meterian.io/components/nodejs/augmented-ui/"
               ]
             }
-          },
-          "locations": [
-            {
-              "physicalLocation": {}
-            }
-          ]
+          }
         },
         {
           "message": {
@@ -204,12 +199,7 @@
                 "https://qa.meterian.io/components/nodejs/color-string/"
               ]
             }
-          },
-          "locations": [
-            {
-              "physicalLocation": {}
-            }
-          ]
+          }
         },
         {
           "message": {
@@ -223,12 +213,7 @@
                 "https://qa.meterian.io/components/nodejs/color/"
               ]
             }
-          },
-          "locations": [
-            {
-              "physicalLocation": {}
-            }
-          ]
+          }
         },
         {
           "message": {
@@ -268,12 +253,7 @@
                 "https://qa.meterian.io/components/nodejs/cross-spawn/"
               ]
             }
-          },
-          "locations": [
-            {
-              "physicalLocation": {}
-            }
-          ]
+          }
         },
         {
           "message": {
@@ -418,12 +398,7 @@
                 "https://qa.meterian.io/components/nodejs/font-ligatures/"
               ]
             }
-          },
-          "locations": [
-            {
-              "physicalLocation": {}
-            }
-          ]
+          }
         },
         {
           "message": {
@@ -888,12 +863,7 @@
                 "https://github.com/ai/nanoid/commit/2b7bd9332bc49b6330c7ddb08e5c661833db2575"
               ]
             }
-          },
-          "locations": [
-            {
-              "physicalLocation": {}
-            }
-          ]
+          }
         },
         {
           "message": {
@@ -907,12 +877,7 @@
                 "https://qa.meterian.io/components/nodejs/npm-run-path/"
               ]
             }
-          },
-          "locations": [
-            {
-              "physicalLocation": {}
-            }
-          ]
+          }
         },
         {
           "message": {
@@ -1264,12 +1229,7 @@
                 "https://qa.meterian.io/components/nodejs/shell-env/"
               ]
             }
-          },
-          "locations": [
-            {
-              "physicalLocation": {}
-            }
-          ]
+          }
         },
         {
           "message": {
@@ -1309,12 +1269,7 @@
                 "https://qa.meterian.io/components/nodejs/signale/"
               ]
             }
-          },
-          "locations": [
-            {
-              "physicalLocation": {}
-            }
-          ]
+          }
         },
         {
           "message": {
@@ -1356,12 +1311,7 @@
                 "https://github.com/joewalnes/smoothie/commit/8e0920d50da82f4b6e605d56f41b69fbb9606a98"
               ]
             }
-          },
-          "locations": [
-            {
-              "physicalLocation": {}
-            }
-          ]
+          }
         },
         {
           "message": {
@@ -1375,12 +1325,7 @@
                 "https://qa.meterian.io/components/nodejs/strip-ansi/"
               ]
             }
-          },
-          "locations": [
-            {
-              "physicalLocation": {}
-            }
-          ]
+          }
         },
         {
           "message": {
@@ -1472,12 +1417,7 @@
                 "https://qa.meterian.io/components/nodejs/username/"
               ]
             }
-          },
-          "locations": [
-            {
-              "physicalLocation": {}
-            }
-          ]
+          }
         },
         {
           "message": {
@@ -1523,12 +1463,7 @@
                 "https://github.com/xtermjs/xterm.js/releases"
               ]
             }
-          },
-          "locations": [
-            {
-              "physicalLocation": {}
-            }
-          ]
+          }
         },
         {
           "message": {
