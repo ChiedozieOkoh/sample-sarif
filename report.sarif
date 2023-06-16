@@ -15,28 +15,43 @@
       "results": [
         {
           "message": {
-            "text": "This affects the package pac-resolver before 5.0.0. This can occur when used with untrusted input, due to unsafe PAC file handling. **NOTE:** The fix for this vulnerability is applied in the node-degenerator library, a dependency written by the same maintainer."
+            "text": "Package edex-ui - 2.2.8 uses license GPL-3.0 which is not allowed due to the policy \u0027NO GPLs\u0027"
           },
           "level": "warning",
           "rule": {
-            "id": "CVE-2021-23406",
+            "id": "NO GPLs",
             "properties": {
-              "tags": [
-                "CVE-2021-23406",
-                "https://github.com/TooTallNate/node-degenerator/commit/9d25bb67d957bc2e5425fea7bf7a58b3fc64ff9e",
-                "https://github.com/TooTallNate/node-degenerator/commit/ccc3445354135398b6eb1a04c7d27c13b833f2d5",
-                "https://github.com/TooTallNate/node-pac-resolver/releases/tag/5.0.0"
-              ]
+              "urls": []
             }
           },
           "locations": [
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "package.json",
-                  "description": {
-                    "text": "CVE-2021-23406 affects package pac-resolver-4.2.0"
-                  }
+                  "uri": "edex-ui-2.2.8",
+                  "description": {}
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Package edex-ui - 2.2.8 uses license GPL-3.0-only which is not allowed due to the policy \u0027NO GPLs\u0027"
+          },
+          "level": "warning",
+          "rule": {
+            "id": "NO GPLs",
+            "properties": {
+              "urls": []
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "edex-ui-2.2.8",
+                  "description": {}
                 }
               }
             }
