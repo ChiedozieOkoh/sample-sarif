@@ -15,6 +15,1549 @@
       "results": [
         {
           "message": {
+            "text": "Library \u0027ansi-regex\u0027 has not been updated since 19 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/ansi-regex/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package ansi-regex-4.1.0"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "ansi-regex is vulnerable to Inefficient Regular Expression Complexity"
+          },
+          "level": "warning",
+          "rule": {
+            "id": "CVE-2021-3807",
+            "properties": {
+              "urls": [
+                "CVE-2021-3807",
+                "https://github.com/chalk/ansi-regex/commit/8d1d7cdb586269882c4bdc1b7325d0c58c8f76f9",
+                "https://huntr.dev/bounties/5b3cf33b-ede0-4398-9974-800876dfd994",
+                "https://www.oracle.com/security-alerts/cpuapr2022.html",
+                "https://security.netapp.com/advisory/ntap-20221014-0002/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CVE-2021-3807 affects package ansi-regex-4.1.0"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027ansi-styles\u0027 has not been updated since 14 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/ansi-styles/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package ansi-styles-3.2.1"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027augmented-ui\u0027 has not been updated since 33 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/augmented-ui/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {}
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027chownr\u0027 has not been updated since 24 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/chownr/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package chownr-2.0.0"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027color-convert\u0027 has not been updated since 16 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/color-convert/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package color-convert-1.9.3"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027color-name\u0027 has not been updated since 50 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/color-name/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package color-name-1.1.3"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027color-string\u0027 has not been updated since 12 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/color-string/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {}
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027color\u0027 has not been updated since 12 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/color/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {}
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027concat-map\u0027 does not appear to be properly maintained anymore, as it was last updated 8.6 years ago. We advise you to replace this library."
+          },
+          "level": "warning",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/concat-map/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package concat-map-0.0.1"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027cross-spawn\u0027 has not been updated since 22 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/cross-spawn/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {}
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027default-shell\u0027 has not been updated since 20 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/default-shell/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package default-shell-1.0.1"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027error-ex\u0027 has not been updated since 33 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/error-ex/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package error-ex-1.3.2"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027escape-string-regexp\u0027 has not been updated since 26 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/escape-string-regexp/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package escape-string-regexp-1.0.5"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Attackers could trick execa into executing arbitrary binaries. This behaviour is caused by the setting `preferLocal\u003dtrue` which makes execa search for locally installed binaries and executes them. This vulnerability is usually only exploitable when using execa on a client-side LOCAL application."
+          },
+          "level": "warning",
+          "rule": {
+            "id": "e54dba29-da8b-5c6b-be1e-0950590dd475",
+            "properties": {
+              "urls": [
+                "https://github.com/sindresorhus/execa/releases/tag/v2.0.0",
+                "https://gitlab.com/gitlab-org/advisories-community/-/blob/main/npm/execa/GMS-2020-2.yml"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "e54dba29-da8b-5c6b-be1e-0950590dd475 affects package execa-1.0.0"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027font-finder\u0027 has not been updated since 31 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/font-finder/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package font-finder-1.1.0"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027font-ligatures\u0027 has not been updated since 17 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/font-ligatures/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {}
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027fs.realpath\u0027 has not been updated since 15 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/fs.realpath/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package fs.realpath-1.0.0"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027get-stream\u0027 has not been updated since 17 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/get-stream/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package get-stream-5.2.0"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027has-flag\u0027 has not been updated since 21 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/has-flag/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package has-flag-4.0.0"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027inflight\u0027 has not been updated since 14 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/inflight/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package inflight-1.0.6"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027inherits\u0027 has not been updated since 13 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/inherits/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package inherits-2.0.4"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027is-arrayish\u0027 has not been updated since 55 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/is-arrayish/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package is-arrayish-0.2.1"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027is-stream\u0027 has not been updated since 21 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/is-stream/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package is-stream-1.1.0"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027isexe\u0027 has not been updated since 15 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/isexe/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package isexe-2.0.0"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027json-parse-better-errors\u0027 has not been updated since 63 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "note",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/json-parse-better-errors/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package json-parse-better-errors-1.0.2"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027load-json-file\u0027 has not been updated since 14 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/load-json-file/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package load-json-file-4.0.0"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027lru-cache\u0027 has not been updated since 19 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/lru-cache/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package lru-cache-6.0.0"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027map-age-cleaner\u0027 has not been updated since 21 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/map-age-cleaner/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package map-age-cleaner-0.1.3"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Vulnerable versions of this library are affected by CWE-1333: Inefficient Regular Expression Complexity"
+          },
+          "level": "warning",
+          "rule": {
+            "id": "CWE-1333",
+            "properties": {
+              "urls": [
+                "https://github.com/isaacs/minimatch/commit/707e1b231d5ddf5b00040bd04968a1a092992d1a",
+                "https://huntr.dev/bounties/e4e1393c-d590-4492-9f43-8be3f3321629/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1333 affects package minimatch-3.0.4"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027minimatch\u0027 has not been updated since 29 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/minimatch/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package minimatch-3.0.4"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "A vulnerability was found in the minimatch package. This flaw allows a Regular Expression Denial of Service (ReDoS) when calling the braceExpand function with specific arguments, resulting in a Denial of Service."
+          },
+          "level": "warning",
+          "rule": {
+            "id": "CVE-2022-3517",
+            "properties": {
+              "urls": [
+                "CVE-2022-3517",
+                "https://github.com/grafana/grafana-image-renderer/issues/329",
+                "https://github.com/isaacs/minimatch/commit/a8763f4388e51956be62dc6025cec1126beeb5e6",
+                "https://lists.debian.org/debian-lts-announce/2023/01/msg00011.html",
+                "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/MTEUUTNIEBHGKUKKLNUZSV7IEP6IP3Q3/",
+                "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/UM6XJ73Q3NAM5KSGCOKJ2ZIA6GUWUJLK/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CVE-2022-3517 affects package minimatch-3.0.4"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027minizlib\u0027 has not been updated since 18 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/minizlib/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package minizlib-2.1.2"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027mkdirp\u0027 has not been updated since 17 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/mkdirp/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package mkdirp-0.5.5"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "The package nanoid from 3.0.0 and before 3.1.31 are vulnerable to Information Exposure via the valueOf() function which allows to reproduce the last id generated."
+          },
+          "level": "warning",
+          "rule": {
+            "id": "CVE-2021-23566",
+            "properties": {
+              "urls": [
+                "CVE-2021-23566",
+                "https://github.com/ai/nanoid/pull/328",
+                "https://gist.github.com/artalar/bc6d1eb9a3477d15d2772e876169a444",
+                "https://github.com/ai/nanoid/commit/2b7bd9332bc49b6330c7ddb08e5c661833db2575"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {}
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027npm-run-path\u0027 has not been updated since 16 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/npm-run-path/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {}
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027once\u0027 has not been updated since 15 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/once/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package once-1.4.0"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027p-defer\u0027 has not been updated since 26 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/p-defer/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package p-defer-1.0.0"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027p-finally\u0027 has not been updated since 26 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/p-finally/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package p-finally-1.0.0"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027p-is-promise\u0027 has not been updated since 26 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/p-is-promise/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package p-is-promise-2.1.0"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027p-limit\u0027 has not been updated since 22 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/p-limit/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package p-limit-3.1.0"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027parse-json\u0027 has not been updated since 15 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/parse-json/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package parse-json-4.0.0"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027path-exists\u0027 has not been updated since 22 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/path-exists/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package path-exists-3.0.0"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027path-is-absolute\u0027 has not been updated since 31 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/path-is-absolute/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package path-is-absolute-1.0.1"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027path-key\u0027 has not been updated since 25 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/path-key/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package path-key-2.0.1"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027pify\u0027 has not been updated since 16 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/pify/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package pify-3.0.0"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027promise-stream-reader\u0027 has not been updated since 62 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "note",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/promise-stream-reader/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package promise-stream-reader-1.0.1"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027shebang-command\u0027 has not been updated since 30 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/shebang-command/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package shebang-command-1.2.0"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027shebang-regex\u0027 has not been updated since 21 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/shebang-regex/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package shebang-regex-1.0.0"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027shell-env\u0027 has not been updated since 21 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/shell-env/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {}
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027signal-exit\u0027 has not been updated since 13 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/signal-exit/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package signal-exit-3.0.2"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027signale\u0027 has not been updated since 14 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/signale/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {}
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027simple-swizzle\u0027 has not been updated since 14 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/simple-swizzle/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package simple-swizzle-0.2.2"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "The package smoothie from 1.31.0 and before 1.36.1 are vulnerable to Cross-site Scripting (XSS) due to improper user input sanitization in strokeStyle and tooltipLabel properties. Exploiting this vulnerability is possible when the user can control these properties."
+          },
+          "level": "warning",
+          "rule": {
+            "id": "CVE-2022-25929",
+            "properties": {
+              "urls": [
+                "CVE-2022-25929",
+                "https://github.com/joewalnes/smoothie/pull/147",
+                "https://github.com/joewalnes/smoothie/commit/8e0920d50da82f4b6e605d56f41b69fbb9606a98"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {}
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027strip-ansi\u0027 has not been updated since 20 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/strip-ansi/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {}
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027strip-bom\u0027 has not been updated since 26 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/strip-bom/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package strip-bom-3.0.0"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027strip-eof\u0027 has not been updated since 14 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/strip-eof/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package strip-eof-1.0.0"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027tiny-inflate\u0027 has not been updated since 42 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/tiny-inflate/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package tiny-inflate-1.0.3"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027username\u0027 has not been updated since 22 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/username/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {}
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027wrappy\u0027 has not been updated since 20 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/wrappy/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package wrappy-1.0.2"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "A remote code execution vulnerability exists in Xterm.js when the component mishandles special characters, aka \"Xterm Remote Code Execution Vulnerability.\" This affects xterm.js."
+          },
+          "level": "warning",
+          "rule": {
+            "id": "CVE-2019-0542",
+            "properties": {
+              "urls": [
+                "CVE-2019-0542",
+                "https://access.redhat.com/errata/RHBA-2019:0959",
+                "https://access.redhat.com/errata/RHSA-2019:2551",
+                "https://access.redhat.com/errata/RHSA-2019:1422",
+                "http://www.securityfocus.com/bid/106434",
+                "https://access.redhat.com/errata/RHSA-2019:2552",
+                "https://github.com/xtermjs/xterm.js/releases"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {}
+            }
+          ]
+        },
+        {
+          "message": {
+            "text": "Library \u0027yallist\u0027 has not been updated since 28 months ago. We suggest you to start looking for a replacement for this library or get in touch with the project maintainers."
+          },
+          "level": "none",
+          "rule": {
+            "id": "CWE-1104",
+            "properties": {
+              "urls": [
+                "https://qa.meterian.io/components/nodejs/yallist/"
+              ]
+            }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "package-lock.json",
+                  "description": {
+                    "text": "CWE-1104 affects package yallist-4.0.0"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "message": {
             "text": "Package edex-ui - 2.2.8 uses license GPL-3.0 which is not allowed due to the policy \u0027NO GPLs\u0027"
           },
           "level": "warning",
@@ -28,8 +1571,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "edex-ui-2.2.8",
-                  "description": {}
+                  "uri": "edex-ui-2.2.8"
                 }
               }
             }
@@ -50,8 +1592,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "edex-ui-2.2.8",
-                  "description": {}
+                  "uri": "edex-ui-2.2.8"
                 }
               }
             }
