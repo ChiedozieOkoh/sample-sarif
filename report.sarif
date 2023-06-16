@@ -71,7 +71,7 @@
         },
         {
           "message": {
-            "text": "The package image-0.23.11 is outdated\nA new patch release 0.23.14 is available\nA new minor release 0.24.6 is available"
+            "text": "The package image-0.23.11 is outdated.\nA new patch release 0.23.14 is available.\nA new minor release 0.24.6 is available."
           },
           "level": "note",
           "rule": {
