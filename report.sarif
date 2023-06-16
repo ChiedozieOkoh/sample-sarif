@@ -38,6 +38,13 @@
                   }
                 }
               }
+            },
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "image-0.23.11"
+                }
+              }
             }
           ]
         },
