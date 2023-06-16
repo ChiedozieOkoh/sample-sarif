@@ -107,7 +107,19 @@
                 "https://qa.meterian.io/components/nodejs/augmented-ui/"
               ]
             }
-          }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "augmented-ui-1.1.2",
+                  "description": {
+                    "text": "CWE-1104 affects package augmented-ui-1.1.2"
+                  }
+                }
+              }
+            }
+          ]
         },
         {
           "message": {
@@ -199,7 +211,19 @@
                 "https://qa.meterian.io/components/nodejs/color-string/"
               ]
             }
-          }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "color-string-1.6.0",
+                  "description": {
+                    "text": "CWE-1104 affects package color-string-1.6.0"
+                  }
+                }
+              }
+            }
+          ]
         },
         {
           "message": {
@@ -213,7 +237,19 @@
                 "https://qa.meterian.io/components/nodejs/color/"
               ]
             }
-          }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "color-3.2.1",
+                  "description": {
+                    "text": "CWE-1104 affects package color-3.2.1"
+                  }
+                }
+              }
+            }
+          ]
         },
         {
           "message": {
@@ -253,7 +289,19 @@
                 "https://qa.meterian.io/components/nodejs/cross-spawn/"
               ]
             }
-          }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "cross-spawn-6.0.5",
+                  "description": {
+                    "text": "CWE-1104 affects package cross-spawn-6.0.5"
+                  }
+                }
+              }
+            }
+          ]
         },
         {
           "message": {
@@ -398,7 +446,19 @@
                 "https://qa.meterian.io/components/nodejs/font-ligatures/"
               ]
             }
-          }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "font-ligatures-1.4.0",
+                  "description": {
+                    "text": "CWE-1104 affects package font-ligatures-1.4.0"
+                  }
+                }
+              }
+            }
+          ]
         },
         {
           "message": {
@@ -863,7 +923,19 @@
                 "https://github.com/ai/nanoid/commit/2b7bd9332bc49b6330c7ddb08e5c661833db2575"
               ]
             }
-          }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "nanoid-3.1.30",
+                  "description": {
+                    "text": "CVE-2021-23566 affects package nanoid-3.1.30"
+                  }
+                }
+              }
+            }
+          ]
         },
         {
           "message": {
@@ -877,7 +949,19 @@
                 "https://qa.meterian.io/components/nodejs/npm-run-path/"
               ]
             }
-          }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "npm-run-path-2.0.2",
+                  "description": {
+                    "text": "CWE-1104 affects package npm-run-path-2.0.2"
+                  }
+                }
+              }
+            }
+          ]
         },
         {
           "message": {
@@ -1229,7 +1313,19 @@
                 "https://qa.meterian.io/components/nodejs/shell-env/"
               ]
             }
-          }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "shell-env-3.0.1",
+                  "description": {
+                    "text": "CWE-1104 affects package shell-env-3.0.1"
+                  }
+                }
+              }
+            }
+          ]
         },
         {
           "message": {
@@ -1269,7 +1365,19 @@
                 "https://qa.meterian.io/components/nodejs/signale/"
               ]
             }
-          }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "signale-1.4.0",
+                  "description": {
+                    "text": "CWE-1104 affects package signale-1.4.0"
+                  }
+                }
+              }
+            }
+          ]
         },
         {
           "message": {
@@ -1311,7 +1419,19 @@
                 "https://github.com/joewalnes/smoothie/commit/8e0920d50da82f4b6e605d56f41b69fbb9606a98"
               ]
             }
-          }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "smoothie-1.35.0",
+                  "description": {
+                    "text": "CVE-2022-25929 affects package smoothie-1.35.0"
+                  }
+                }
+              }
+            }
+          ]
         },
         {
           "message": {
@@ -1325,7 +1445,19 @@
                 "https://qa.meterian.io/components/nodejs/strip-ansi/"
               ]
             }
-          }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "strip-ansi-5.2.0",
+                  "description": {
+                    "text": "CWE-1104 affects package strip-ansi-5.2.0"
+                  }
+                }
+              }
+            }
+          ]
         },
         {
           "message": {
@@ -1417,7 +1549,19 @@
                 "https://qa.meterian.io/components/nodejs/username/"
               ]
             }
-          }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "username-5.1.0",
+                  "description": {
+                    "text": "CWE-1104 affects package username-5.1.0"
+                  }
+                }
+              }
+            }
+          ]
         },
         {
           "message": {
@@ -1463,7 +1607,19 @@
                 "https://github.com/xtermjs/xterm.js/releases"
               ]
             }
-          }
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "xterm-4.14.1",
+                  "description": {
+                    "text": "CVE-2019-0542 affects package xterm-4.14.1"
+                  }
+                }
+              }
+            }
+          ]
         },
         {
           "message": {
