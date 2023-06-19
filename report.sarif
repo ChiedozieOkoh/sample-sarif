@@ -8,15 +8,41 @@
           "name": "Meterian",
           "informationUri": "https://docs.meterian.io/",
           "semanticVersion": "1.2.25.6",
-          "fullName": "Meterian BOSS scanner"
+          "fullName": "Meterian BOSS scanner",
+          "rules": [
+            {
+              "id": "8ef3de0a-e840-b930-d9b9-bd9d9ee3d85f",
+              "shortDescription": {
+                "text": "MEDIUM security issue in image-0.23.11 8ef3de0a-e840-b930-d9b9-bd9d9ee3d85f"
+              },
+              "fullDescription": {
+                "text": "# Mutable reference with immutable provenance\n\nA mutable reference to a struct was constructed by dereferencing a pointer\nobtained from `slice::as_ptr`. Instead, `slice::as_mut_ptr` should have been\ncalled on the mutable slice argument. The former performs an implicit reborrow\nas an immutable shared reference which does not allow writing through the\nderived pointer.\n\nThere is no evidence for miscompilation, exploitable or otherwise, caused by\nthis bug. [Further investigation on Zulip][Zulip] suggests that the unoptimized\ngenerated LLVM IR does not contain any UB itself, effectively mitigating\nfurther effects.\n\n[Zulip]: https://rust-lang.zulipchat.com/#narrow/stream/146229-wg-secure-code/topic/Implications.20of.20using.20.60slice.3A.3Aas_ptr.60.20for.20mutable.20access/near/216499472\n\n"
+              }
+            },
+            {
+              "id": "NO GPLs(round-based-0.1.7)",
+              "shortDescription": {
+                "text": "Licensing issue found in round-based-0.1.7"
+              },
+              "fullDescription": {
+                "text": "Package round-based - 0.1.7 uses license GPL-3.0 which is not allowed due to the policy \u0027NO GPLs\u0027"
+              }
+            },
+            {
+              "id": "update image-0.23.11",
+              "shortDescription": {
+                "text": "Stability Issue: image-0.23.11 is outdated"
+              },
+              "fullDescription": {
+                "text": "The package image-0.23.11 is outdated.\nA new patch release 0.23.14 is available.\nA new minor release 0.24.6 is available."
+              }
+            }
+          ]
         }
       },
       "artifacts": [],
       "results": [
         {
-          "message": {
-            "text": "image-0.23.11\n\n# Mutable reference with immutable provenance\n\nA mutable reference to a struct was constructed by dereferencing a pointer\nobtained from `slice::as_ptr`. Instead, `slice::as_mut_ptr` should have been\ncalled on the mutable slice argument. The former performs an implicit reborrow\nas an immutable shared reference which does not allow writing through the\nderived pointer.\n\nThere is no evidence for miscompilation, exploitable or otherwise, caused by\nthis bug. [Further investigation on Zulip][Zulip] suggests that the unoptimized\ngenerated LLVM IR does not contain any UB itself, effectively mitigating\nfurther effects.\n\n[Zulip]: https://rust-lang.zulipchat.com/#narrow/stream/146229-wg-secure-code/topic/Implications.20of.20using.20.60slice.3A.3Aas_ptr.60.20for.20mutable.20access/near/216499472\n\n"
-          },
           "level": "warning",
           "rule": {
             "id": "8ef3de0a-e840-b930-d9b9-bd9d9ee3d85f",
@@ -27,6 +53,9 @@
                 "https://rustsec.org/advisories/RUSTSEC-2020-0073.html"
               ]
             }
+          },
+          "message": {
+            "text": "MEDIUM security issue in image-0.23.11 8ef3de0a-e840-b930-d9b9-bd9d9ee3d85f"
           },
           "locations": [
             {
@@ -49,15 +78,15 @@
           ]
         },
         {
-          "message": {
-            "text": "Package round-based - 0.1.7 uses license GPL-3.0 which is not allowed due to the policy \u0027NO GPLs\u0027"
-          },
           "level": "warning",
           "rule": {
             "id": "NO GPLs",
             "properties": {
               "urls": []
             }
+          },
+          "message": {
+            "text": "Licensing issue found in round-based-0.1.7"
           },
           "locations": [
             {
@@ -70,15 +99,15 @@
           ]
         },
         {
-          "message": {
-            "text": "The package image-0.23.11 is outdated.\nA new patch release 0.23.14 is available.\nA new minor release 0.24.6 is available."
-          },
           "level": "note",
           "rule": {
-            "id": "update-packages",
+            "id": "update image-0.23.11",
             "properties": {
               "urls": []
             }
+          },
+          "message": {
+            "text": "Stability Issue: image-0.23.11 is outdated"
           },
           "locations": [
             {
