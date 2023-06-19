@@ -65,6 +65,10 @@
                   "description": {
                     "text": "8ef3de0a-e840-b930-d9b9-bd9d9ee3d85f affects package image-0.23.11"
                   }
+                },
+                "region": {
+                  "startLine": 9,
+                  "endLine": 9
                 }
               }
             },
