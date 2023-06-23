@@ -1176,7 +1176,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Cpanel::JSON::XS-3.0217"
+                  "uri": "Cpanel%3A%3AJSON%3A%3AXS-3.0217"
                 }
               }
             }
@@ -1210,7 +1210,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "HTTP::Daemon-6.01"
+                  "uri": "HTTP%3A%3ADaemon-6.01"
                 }
               }
             }
@@ -1238,7 +1238,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "LWP::Protocol::https-6.06"
+                  "uri": "LWP%3A%3AProtocol%3A%3Ahttps-6.06"
                 }
               }
             }
@@ -1264,7 +1264,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Module::Metadata-1.000002"
+                  "uri": "Module%3A%3AMetadata-1.000002"
                 }
               }
             }
@@ -1285,7 +1285,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Apache::LogFormat::Compiler-0.33"
+                  "uri": "Apache%3A%3ALogFormat%3A%3ACompiler-0.33"
                 }
               }
             }
@@ -1306,7 +1306,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "B::Hooks::EndOfScope-0.21"
+                  "uri": "B%3A%3AHooks%3A%3AEndOfScope-0.21"
                 }
               }
             }
@@ -1327,7 +1327,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "CPAN::Meta::Requirements-2.140"
+                  "uri": "CPAN%3A%3AMeta%3A%3ARequirements-2.140"
                 }
               }
             }
@@ -1348,7 +1348,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Class::Data::Inheritable-0.08"
+                  "uri": "Class%3A%3AData%3A%3AInheritable-0.08"
                 }
               }
             }
@@ -1369,7 +1369,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Class::Inspector-1.28"
+                  "uri": "Class%3A%3AInspector-1.28"
                 }
               }
             }
@@ -1390,7 +1390,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Class::Method::Modifiers-2.12"
+                  "uri": "Class%3A%3AMethod%3A%3AModifiers-2.12"
                 }
               }
             }
@@ -1411,7 +1411,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Class::Singleton-1.5"
+                  "uri": "Class%3A%3ASingleton-1.5"
                 }
               }
             }
@@ -1432,7 +1432,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Class::Unload-0.09"
+                  "uri": "Class%3A%3AUnload-0.09"
                 }
               }
             }
@@ -1453,7 +1453,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Cookie::Baker-0.06"
+                  "uri": "Cookie%3A%3ABaker-0.06"
                 }
               }
             }
@@ -1474,7 +1474,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Cpanel::JSON::XS-3.0217"
+                  "uri": "Cpanel%3A%3AJSON%3A%3AXS-3.0217"
                 }
               }
             }
@@ -1495,7 +1495,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Crypt::JWT-0.026"
+                  "uri": "Crypt%3A%3AJWT-0.026"
                 }
               }
             }
@@ -1558,7 +1558,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Data::Dump-1.23"
+                  "uri": "Data%3A%3ADump-1.23"
                 }
               }
             }
@@ -1579,7 +1579,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Data::OptList-0.110"
+                  "uri": "Data%3A%3AOptList-0.110"
                 }
               }
             }
@@ -1600,7 +1600,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Data::Perl-0.002009"
+                  "uri": "Data%3A%3APerl-0.002009"
                 }
               }
             }
@@ -1621,7 +1621,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Data::Rx-0.200007"
+                  "uri": "Data%3A%3ARx-0.200007"
                 }
               }
             }
@@ -1663,7 +1663,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "DateTime::Format::Builder-0.81"
+                  "uri": "DateTime%3A%3AFormat%3A%3ABuilder-0.81"
                 }
               }
             }
@@ -1684,7 +1684,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "DateTime::Format::Strptime-1.68"
+                  "uri": "DateTime%3A%3AFormat%3A%3AStrptime-1.68"
                 }
               }
             }
@@ -1705,7 +1705,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "DateTime::Format::W3CDTF-0.07"
+                  "uri": "DateTime%3A%3AFormat%3A%3AW3CDTF-0.07"
                 }
               }
             }
@@ -1726,7 +1726,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "DateTime::Locale-1.24"
+                  "uri": "DateTime%3A%3ALocale-1.24"
                 }
               }
             }
@@ -1747,7 +1747,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "DateTime::TimeZone-2.36"
+                  "uri": "DateTime%3A%3ATimeZone-2.36"
                 }
               }
             }
@@ -1768,7 +1768,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Devel::GlobalDestruction-0.13"
+                  "uri": "Devel%3A%3AGlobalDestruction-0.13"
                 }
               }
             }
@@ -1789,7 +1789,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Devel::StackTrace-2.01"
+                  "uri": "Devel%3A%3AStackTrace-2.01"
                 }
               }
             }
@@ -1810,7 +1810,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Exception::Class-1.44"
+                  "uri": "Exception%3A%3AClass-1.44"
                 }
               }
             }
@@ -1831,7 +1831,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Exporter::Tiny-0.042"
+                  "uri": "Exporter%3A%3ATiny-0.042"
                 }
               }
             }
@@ -1852,7 +1852,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "ExtUtils::Depends-0.405"
+                  "uri": "ExtUtils%3A%3ADepends-0.405"
                 }
               }
             }
@@ -1873,7 +1873,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "ExtUtils::Helpers-0.022"
+                  "uri": "ExtUtils%3A%3AHelpers-0.022"
                 }
               }
             }
@@ -1894,7 +1894,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "ExtUtils::InstallPaths-0.011"
+                  "uri": "ExtUtils%3A%3AInstallPaths-0.011"
                 }
               }
             }
@@ -1915,7 +1915,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "ExtUtils::MakeMaker-7.24"
+                  "uri": "ExtUtils%3A%3AMakeMaker-7.24"
                 }
               }
             }
@@ -1936,7 +1936,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "File::Listing-6.04"
+                  "uri": "File%3A%3AListing-6.04"
                 }
               }
             }
@@ -1957,7 +1957,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "File::ShareDir-1.102"
+                  "uri": "File%3A%3AShareDir-1.102"
                 }
               }
             }
@@ -1978,7 +1978,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "File::ShareDir::Install-0.11"
+                  "uri": "File%3A%3AShareDir%3A%3AInstall-0.11"
                 }
               }
             }
@@ -1999,7 +1999,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Filesys::Notify::Simple-0.12"
+                  "uri": "Filesys%3A%3ANotify%3A%3ASimple-0.12"
                 }
               }
             }
@@ -2020,7 +2020,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "HTML::Parser-3.72"
+                  "uri": "HTML%3A%3AParser-3.72"
                 }
               }
             }
@@ -2041,7 +2041,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "HTTP::Cookies-6.01"
+                  "uri": "HTTP%3A%3ACookies-6.01"
                 }
               }
             }
@@ -2062,7 +2062,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "HTTP::Daemon-6.01"
+                  "uri": "HTTP%3A%3ADaemon-6.01"
                 }
               }
             }
@@ -2083,7 +2083,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "HTTP::Date-6.02"
+                  "uri": "HTTP%3A%3ADate-6.02"
                 }
               }
             }
@@ -2104,7 +2104,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "HTTP::Headers::Fast-0.20"
+                  "uri": "HTTP%3A%3AHeaders%3A%3AFast-0.20"
                 }
               }
             }
@@ -2125,7 +2125,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "HTTP::Message-6.11"
+                  "uri": "HTTP%3A%3AMessage-6.11"
                 }
               }
             }
@@ -2146,7 +2146,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "HTTP::Tiny-0.064"
+                  "uri": "HTTP%3A%3ATiny-0.064"
                 }
               }
             }
@@ -2167,7 +2167,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "IO::HTML-1.001"
+                  "uri": "IO%3A%3AHTML-1.001"
                 }
               }
             }
@@ -2188,7 +2188,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "IO::Socket::IP-0.38"
+                  "uri": "IO%3A%3ASocket%3A%3AIP-0.38"
                 }
               }
             }
@@ -2209,7 +2209,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "IO::Socket::SSL-2.056"
+                  "uri": "IO%3A%3ASocket%3A%3ASSL-2.056"
                 }
               }
             }
@@ -2251,7 +2251,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "JSON::MaybeXS-1.003005"
+                  "uri": "JSON%3A%3AMaybeXS-1.003005"
                 }
               }
             }
@@ -2272,7 +2272,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "JSON::PP-2.27400"
+                  "uri": "JSON%3A%3APP-2.27400"
                 }
               }
             }
@@ -2293,7 +2293,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "LWP::MediaTypes-6.02"
+                  "uri": "LWP%3A%3AMediaTypes-6.02"
                 }
               }
             }
@@ -2314,7 +2314,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "LWP::Protocol::PSGI-0.09"
+                  "uri": "LWP%3A%3AProtocol%3A%3APSGI-0.09"
                 }
               }
             }
@@ -2335,7 +2335,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "LWP::Protocol::https-6.06"
+                  "uri": "LWP%3A%3AProtocol%3A%3Ahttps-6.06"
                 }
               }
             }
@@ -2356,7 +2356,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Lexical::SealRequireHints-0.010"
+                  "uri": "Lexical%3A%3ASealRequireHints-0.010"
                 }
               }
             }
@@ -2377,7 +2377,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "List::MoreUtils-0.425"
+                  "uri": "List%3A%3AMoreUtils-0.425"
                 }
               }
             }
@@ -2398,7 +2398,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "List::MoreUtils::XS-0.426"
+                  "uri": "List%3A%3AMoreUtils%3A%3AXS-0.426"
                 }
               }
             }
@@ -2419,7 +2419,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Log::Dispatch-2.68"
+                  "uri": "Log%3A%3ADispatch-2.68"
                 }
               }
             }
@@ -2440,7 +2440,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Log::Log4perl-1.49"
+                  "uri": "Log%3A%3ALog4perl-1.49"
                 }
               }
             }
@@ -2461,7 +2461,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "MRO::Compat-0.13"
+                  "uri": "MRO%3A%3ACompat-0.13"
                 }
               }
             }
@@ -2482,7 +2482,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Module::Build-0.4220"
+                  "uri": "Module%3A%3ABuild-0.4220"
                 }
               }
             }
@@ -2503,7 +2503,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Module::Build::Tiny-0.039"
+                  "uri": "Module%3A%3ABuild%3A%3ATiny-0.039"
                 }
               }
             }
@@ -2524,7 +2524,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Module::Loaded---"
+                  "uri": "Module%3A%3ALoaded---"
                 }
               }
             }
@@ -2545,7 +2545,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Module::Runtime-0.014"
+                  "uri": "Module%3A%3ARuntime-0.014"
                 }
               }
             }
@@ -2587,7 +2587,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Moo::Role---"
+                  "uri": "Moo%3A%3ARole---"
                 }
               }
             }
@@ -2608,7 +2608,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "MooX::HandlesVia-0.001008"
+                  "uri": "MooX%3A%3AHandlesVia-0.001008"
                 }
               }
             }
@@ -2629,7 +2629,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Net::HTTP-6.09"
+                  "uri": "Net%3A%3AHTTP-6.09"
                 }
               }
             }
@@ -2650,7 +2650,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Net::SSLeay-1.78"
+                  "uri": "Net%3A%3ASSLeay-1.78"
                 }
               }
             }
@@ -2671,7 +2671,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Net::Server-2.008"
+                  "uri": "Net%3A%3AServer-2.008"
                 }
               }
             }
@@ -2692,7 +2692,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Number::Tolerant-1.708"
+                  "uri": "Number%3A%3ATolerant-1.708"
                 }
               }
             }
@@ -2713,7 +2713,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "POSIX::strftime::Compiler-0.42"
+                  "uri": "POSIX%3A%3Astrftime%3A%3ACompiler-0.42"
                 }
               }
             }
@@ -2734,7 +2734,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Package::DeprecationManager-0.17"
+                  "uri": "Package%3A%3ADeprecationManager-0.17"
                 }
               }
             }
@@ -2755,7 +2755,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Package::Stash-0.37"
+                  "uri": "Package%3A%3AStash-0.37"
                 }
               }
             }
@@ -2776,7 +2776,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Package::Stash::XS-0.28"
+                  "uri": "Package%3A%3AStash%3A%3AXS-0.28"
                 }
               }
             }
@@ -2797,7 +2797,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Params::Util-1.07"
+                  "uri": "Params%3A%3AUtil-1.07"
                 }
               }
             }
@@ -2818,7 +2818,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Params::Validate-1.24"
+                  "uri": "Params%3A%3AValidate-1.24"
                 }
               }
             }
@@ -2839,7 +2839,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Params::ValidationCompiler-0.30"
+                  "uri": "Params%3A%3AValidationCompiler-0.30"
                 }
               }
             }
@@ -2860,7 +2860,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Path::Tiny-0.096"
+                  "uri": "Path%3A%3ATiny-0.096"
                 }
               }
             }
@@ -2902,7 +2902,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Role::Tiny-2.000003"
+                  "uri": "Role%3A%3ATiny-2.000003"
                 }
               }
             }
@@ -2923,7 +2923,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "SOAP::Lite-1.20"
+                  "uri": "SOAP%3A%3ALite-1.20"
                 }
               }
             }
@@ -3028,7 +3028,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "String::CRC32-1.6"
+                  "uri": "String%3A%3ACRC32-1.6"
                 }
               }
             }
@@ -3049,7 +3049,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Sub::Exporter-0.987"
+                  "uri": "Sub%3A%3AExporter-0.987"
                 }
               }
             }
@@ -3070,7 +3070,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Sub::Exporter::Progressive-0.001011"
+                  "uri": "Sub%3A%3AExporter%3A%3AProgressive-0.001011"
                 }
               }
             }
@@ -3091,7 +3091,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Sub::Identify-0.12"
+                  "uri": "Sub%3A%3AIdentify-0.12"
                 }
               }
             }
@@ -3112,7 +3112,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Sub::Install-0.928"
+                  "uri": "Sub%3A%3AInstall-0.928"
                 }
               }
             }
@@ -3133,7 +3133,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Sub::Name-0.19"
+                  "uri": "Sub%3A%3AName-0.19"
                 }
               }
             }
@@ -3154,7 +3154,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Sub::Uplevel-0.2600"
+                  "uri": "Sub%3A%3AUplevel-0.2600"
                 }
               }
             }
@@ -3175,7 +3175,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Syntax::Keyword::Gather-1.003001"
+                  "uri": "Syntax%3A%3AKeyword%3A%3AGather-1.003001"
                 }
               }
             }
@@ -3196,7 +3196,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Sys::Syslog-0.35"
+                  "uri": "Sys%3A%3ASyslog-0.35"
                 }
               }
             }
@@ -3217,7 +3217,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Task::Weaken-1.04"
+                  "uri": "Task%3A%3AWeaken-1.04"
                 }
               }
             }
@@ -3238,7 +3238,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Template::Toolkit-2.28"
+                  "uri": "Template%3A%3AToolkit-2.28"
                 }
               }
             }
@@ -3259,7 +3259,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Test::Fatal-0.014"
+                  "uri": "Test%3A%3AFatal-0.014"
                 }
               }
             }
@@ -3280,7 +3280,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Test::Harness-3.36"
+                  "uri": "Test%3A%3AHarness-3.36"
                 }
               }
             }
@@ -3301,7 +3301,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Test::MockModule-0.11"
+                  "uri": "Test%3A%3AMockModule-0.11"
                 }
               }
             }
@@ -3322,7 +3322,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Test::MockTime-0.15"
+                  "uri": "Test%3A%3AMockTime-0.15"
                 }
               }
             }
@@ -3343,7 +3343,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Test::Output-1.031"
+                  "uri": "Test%3A%3AOutput-1.031"
                 }
               }
             }
@@ -3364,7 +3364,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Test::Requires-0.10"
+                  "uri": "Test%3A%3ARequires-0.10"
                 }
               }
             }
@@ -3385,7 +3385,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Test::TCP-2.17"
+                  "uri": "Test%3A%3ATCP-2.17"
                 }
               }
             }
@@ -3406,7 +3406,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Test::Warn-0.36"
+                  "uri": "Test%3A%3AWarn-0.36"
                 }
               }
             }
@@ -3427,7 +3427,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Text::CSV-1.99"
+                  "uri": "Text%3A%3ACSV-1.99"
                 }
               }
             }
@@ -3448,7 +3448,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Text::CSV_XS-1.39"
+                  "uri": "Text%3A%3ACSV_XS-1.39"
                 }
               }
             }
@@ -3469,7 +3469,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Text::Glob-0.09"
+                  "uri": "Text%3A%3AGlob-0.09"
                 }
               }
             }
@@ -3490,7 +3490,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Try::Tiny-0.27"
+                  "uri": "Try%3A%3ATiny-0.27"
                 }
               }
             }
@@ -3511,7 +3511,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Type::Tiny-1.000005"
+                  "uri": "Type%3A%3ATiny-1.000005"
                 }
               }
             }
@@ -3532,7 +3532,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Types::Standard---"
+                  "uri": "Types%3A%3AStandard---"
                 }
               }
             }
@@ -3574,7 +3574,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Variable::Magic-0.59"
+                  "uri": "Variable%3A%3AMagic-0.59"
                 }
               }
             }
@@ -3595,7 +3595,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "Web::Simple-0.031"
+                  "uri": "Web%3A%3ASimple-0.031"
                 }
               }
             }
@@ -3616,7 +3616,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "XML::Parser-2.44"
+                  "uri": "XML%3A%3AParser-2.44"
                 }
               }
             }
@@ -3637,7 +3637,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "XML::SAX-0.99"
+                  "uri": "XML%3A%3ASAX-0.99"
                 }
               }
             }
@@ -3658,7 +3658,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "XML::SAX::Base-1.08"
+                  "uri": "XML%3A%3ASAX%3A%3ABase-1.08"
                 }
               }
             }
@@ -3679,7 +3679,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "XML::Simple-2.22"
+                  "uri": "XML%3A%3ASimple-2.22"
                 }
               }
             }
@@ -3700,7 +3700,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "YAML::LibYAML-0.69"
+                  "uri": "YAML%3A%3ALibYAML-0.69"
                 }
               }
             }
@@ -3721,7 +3721,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "YAML::XS---"
+                  "uri": "YAML%3A%3AXS---"
                 }
               }
             }
@@ -3742,7 +3742,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "bareword::filehandles-0.004"
+                  "uri": "bareword%3A%3Afilehandles-0.004"
                 }
               }
             }
@@ -3784,7 +3784,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "local::lib-2.000019"
+                  "uri": "local%3A%3Alib-2.000019"
                 }
               }
             }
@@ -3826,7 +3826,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "namespace::autoclean-0.28"
+                  "uri": "namespace%3A%3Aautoclean-0.28"
                 }
               }
             }
