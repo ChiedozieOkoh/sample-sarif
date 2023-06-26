@@ -29,6 +29,7 @@ jobs:
            METERIAN_DOWNLOAD_URL: ${{secrets.METERIAN_DOWNLOAD_URL}}
         run: |
            curl -O -L -J  $METERIAN_DOWNLOAD_URL
+           ls .
            java -jar -Denv=qa meterian-cli-jar --report-sarif=report.sarif
            rm meterian-cli.jar
 
