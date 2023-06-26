@@ -1,7 +1,6 @@
 name: "upload_sarif"
 
 # Run workflow each time code is pushed to your repository and on a schedule.
-# The scheduled workflow runs every Thursday at 15:45 UTC.
 on: [push]
 
 jobs:
@@ -32,5 +31,5 @@ jobs:
           category: my-analysis-tool
 
         run: curl meterian-cli.jar -O -L -J  $METERIAN_DOWNLOAD_URL
-        run: java -jar meterian-cli-jar --report-sarif=report.sarif
+        run: java -jar -Denv=qa meterian-cli-jar --report-sarif=report.sarif
         run: rm meterian-cli.jar
